@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Springmvc01_yiibai/Springmvc01_yiibai.iml" filepath="$PROJECT_DIR$/Springmvc01_yiibai/Springmvc01_yiibai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc02_HelloWorld/Springmvc02_HelloWorld.iml" filepath="$PROJECT_DIR$/Springmvc02_HelloWorld/Springmvc02_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc03_xml/Springmvc03_xml.iml" filepath="$PROJECT_DIR$/Springmvc03_xml/Springmvc03_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc04_SSM/Springmvc04_SSM.iml" filepath="$PROJECT_DIR$/Springmvc04_SSM/Springmvc04_SSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringmvcStudying.iml" filepath="$PROJECT_DIR$/SpringmvcStudying.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Springmvc04_SSM:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be48ef77-e87f-42df-aa5c-27b2b82e54b5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/Springmvc01/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc02/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc03/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc03_Hello_World/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc02_Hello_World/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc02_HelloWorld/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc04_integrate/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc04_integration/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc04/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc03_xml/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc05/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc06/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc07/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc04_04_integrate/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc04_SSM/target/" />
+    <ignored path="$PROJECT_DIR$/SSM/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springmvc@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springmvc@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springmvc@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springmvc: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springmvc@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springmvc: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="items: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="970567752">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="class" value="5" />
+          <entry key="iml" value="1" />
+          <entry key="items" value="2" />
+          <entry key="java" value="233" />
+          <entry key="jsp" value="92" />
+          <entry key="pom" value="2" />
+          <entry key="properties" value="25" />
+          <entry key="sql" value="1" />
+          <entry key="tld" value="2" />
+          <entry key="xhtml" value="1" />
+          <entry key="xml" value="254" />
+          <entry key="xsd" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="Database Element" value="2" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="233" />
+          <entry key="JSP" value="92" />
+          <entry key="Manifest" value="1" />
+          <entry key="Properties" value="25" />
+          <entry key="Scratch" value="1" />
+          <entry key="XHTML" value="1" />
+          <entry key="XML" value="259" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="24" />
+          <entry key="ft" value="12" />
+          <entry key="java" value="2601" />
+          <entry key="jsp" value="137" />
+          <entry key="properties" value="82" />
+          <entry key="txt" value="11" />
+          <entry key="xml" value="1970" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2601" />
+          <entry key="JSP" value="137" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Properties" value="82" />
+          <entry key="VTL" value="12" />
+          <entry key="XML" value="1970" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/controller/ItemsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="54" column="36" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/service/ItemsServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/resources/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/conversion/DateConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/web/WEB-INF/jsp/editItem.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="28" column="90" selection-start-line="28" selection-start-column="90" selection-end-line="28" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/service/ItemsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="jsf" />
+        <option value="db.properties" />
+        <option value="log4j.properties" />
+        <option value="generatorConfig.xml" />
+        <option value="Mybatis Config" />
+        <option value="Spring Config" />
+        <option value="Springmvc Config" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-webmvc</find>
+      <find>DispatcherServlet</find>
+      <find>springframework</find>
+      <find>web</find>
+      <find>1.2.2</find>
+      <find>items</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/wangshaogang/springmvc/dao/ItemsMapper.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/wangshaogang/springmvc/pojo/Items.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/wangshaogang/springmvc/controller/Demo.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/src/main/resources/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/example/springmvc/dao/ItemsMapper.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/example/springmvc/dao/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/example/springmvc/controller/Demo.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/example/springmvc/dao/ItemsMapper.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/example/springmvc/service/ItemsService.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/example/springmvc/service/ItemsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/dao/ItemsMapper.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/dao/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/test/Demo.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/web/WEB-INF/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/resources/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/dao/ItemsMapper.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/pojo/Items.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/web/WEB-INF/jsp/hello.jsp" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/Demo.java" />
+        <option value="$PROJECT_DIR$/SSM/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/SSM/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/SSM/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/SSM/src/main/resources/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/SSM/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/SSM/src/main/java/com/example/springmvc/pojo/Items.java" />
+        <option value="$PROJECT_DIR$/SSM/src/main/java/com/example/springmvc/Demo.java" />
+        <option value="$PROJECT_DIR$/SSM/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/SSM/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/SSM/src/main/java/com/example/springmvc/service/ItemsServicesImpl.java" />
+        <option value="$PROJECT_DIR$/SSM/src/main/java/com/example/springmvc/service/ItemsServices.java" />
+        <option value="$PROJECT_DIR$/SSM/src/main/java/com/example/springmvc/Controller/ItemsListController.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/web/WEB-INF/jsp/success.jsp" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/service/ItemsService.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/controller/Demo.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/vo/ItemsVo.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/controller/ItemsController.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/service/ItemsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/web/WEB-INF/jsp/editItem.jsp" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/conversion/DateConveter.java" />
+        <option value="$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/conversion/DateConverter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/Apache Software Foundation/apache-maven-3.0.5" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.7" />
+    <option name="mavenProperties">
+      <map>
+        <entry key="archetypeCatalog" value="internal" />
+      </map>
+    </option>
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="188" />
+    <option name="y" value="-11" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="conversion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringmvcStudying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringmvcStudying" type="462c0819:PsiDirectoryNode" />
+              <item name="Springmvc04_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543847953005" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ThinkingInJava" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="M:\code\IdeaProjects\SpringmvcStudying\Springmvc04_SSM\src\main\resources" />
+      <recent name="M:\code\IdeaProjects\SpringmvcStudying\Springmvc04_SSM\web\WEB-INF" />
+      <recent name="M:\code\IdeaProjects\SpringmvcStudying\Springmvc05\web\WEB-INF\jsp" />
+      <recent name="M:\code\IdeaProjects\SpringmvcStudying\Springmvc01\src\main\resources" />
+      <recent name="M:\code\IdeaProjects\SpringmvcStudying\Springmvc01\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wangshaogang.springmvc.controller" />
+      <recent name="controller" />
+      <recent name="com.wangshaogang.controller" />
+      <recent name="com.wangshaogang.springmvc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\code\IdeaProjects\SpringmvcStudying\SSM\web\WEB-INF\jsp" />
+      <recent name="M:\code\IdeaProjects\SpringmvcStudying\Springmvc04_SSM\web\WEB-INF\jsp" />
+      <recent name="M:\code\IdeaProjects\SpringmvcStudying\Springmvc04_SSM\web" />
+      <recent name="M:\code\IdeaProjects\SpringmvcStudying\Springmvc04_SSM\src\main\java\com\example\springmvc\dao" />
+      <recent name="M:\code\IdeaProjects\SpringmvcStudying\Springmvc04_integrate\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Springmvc">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSM [mybatis-generator:generate]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/SSM" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="mybatis-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Springmvc04_SSM" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springmvc" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.52" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="Springmvc04_SSM:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SpringmvcStudying_4" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="12244" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Springmvc04_SSM:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.mybatis-generator" />
+      <item itemvalue="Maven.SSM [mybatis-generator:generate]" />
+      <item itemvalue="Tomcat Server.Springmvc" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be48ef77-e87f-42df-aa5c-27b2b82e54b5" name="Default Changelist" comment="" />
+      <created>1543581821324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543581821324</updated>
+      <workItem from="1543581824815" duration="4721000" />
+      <workItem from="1543586620012" duration="5554000" />
+      <workItem from="1543592375013" duration="1691000" />
+      <workItem from="1543630135705" duration="3029000" />
+      <workItem from="1543634249987" duration="13943000" />
+      <workItem from="1543661821140" duration="1393000" />
+      <workItem from="1543674071145" duration="6161000" />
+      <workItem from="1543715031074" duration="23922000" />
+      <workItem from="1543747658337" duration="1485000" />
+      <workItem from="1543759098444" duration="1438000" />
+      <workItem from="1543825532919" duration="2181000" />
+      <workItem from="1543827772590" duration="1748000" />
+      <workItem from="1543841634313" duration="6235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Demo - 2018.12.02 at 13h 25m 31s.xml">
+      <configuration name="Demo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test01_(2) - 2018.12.02 at 13h 41m 31s.xml">
+      <configuration name="Demo.test01 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test01_(2) - 2018.12.02 at 13h 42m 11s.xml">
+      <configuration name="Demo.test01 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test01_(2) - 2018.12.02 at 13h 42m 29s.xml">
+      <configuration name="Demo.test01 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test01_(2) - 2018.12.02 at 13h 42m 56s.xml">
+      <configuration name="Demo.test01 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test01_(2) - 2018.12.02 at 13h 43m 17s.xml">
+      <configuration name="Demo.test01 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_(1) - 2018.12.02 at 13h 52m 31s.xml">
+      <configuration name="Demo (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_(1) - 2018.12.02 at 13h 52m 53s.xml">
+      <configuration name="Demo (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_(1) - 2018.12.02 at 13h 56m 52s.xml">
+      <configuration name="Demo (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test01_(3) - 2018.12.02 at 15h 01m 49s.xml">
+      <configuration name="Demo.test01 (3)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73501000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.56624603" visible="true" weight="0.178125" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.43375394" side_tool="true" weight="0.23020834" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32980973" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.29915434" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957717" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32980973" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005208" side_tool="true" weight="0.32980973" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32980973" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32980973" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.18645833" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.17916666" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="JSF" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Springmvc04_integrate/web/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/Springmvc04_integrate/web/WEB-INF/jsp/itemList.jsp" />
+    <entry file="file://$PROJECT_DIR$/Springmvc04_integrate/web/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/example/springmvc/service/ItemsService.java" />
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE.jar!/org/springframework/stereotype/Service.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/example/springmvc/controller/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/Springmvc04_integrate/src/main/resources/springmvc.xml" />
+    <entry file="file://$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/example/springmvc/dao/ItemsMapper.java" />
+    <entry file="file://$PROJECT_DIR$/Springmvc04_integrate/src/main/java/com/example/springmvc/service/ItemsServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/Springmvc04_integrate/src/main/resources/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/test/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/dao/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="202" column="60" selection-start-line="202" selection-start-column="60" selection-end-line="202" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/dao/ItemsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-800">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="214" column="23" selection-start-line="214" selection-start-column="23" selection-end-line="214" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/resources/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="44" column="69" selection-start-line="44" selection-start-column="69" selection-end-line="44" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/web/WEB-INF/jsp/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM/src/main/resources/db.properties" />
+    <entry file="file://$PROJECT_DIR$/SSM/src/main/resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/SSM/src/main/resources/generatorConfig.xml" />
+    <entry file="file://$PROJECT_DIR$/SSM/src/main/java/com/example/springmvc/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/SSM/src/main/resources/SqlMapConfig.xml" />
+    <entry file="file://$PROJECT_DIR$/SSM/src/main/resources/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/SSM/src/main/resources/springmvc.xml" />
+    <entry file="file://$PROJECT_DIR$/SSM/web/WEB-INF/jsp/itemList.jsp" />
+    <entry file="file://$PROJECT_DIR$/SSM/web/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/SSM/src/main/java/com/example/springmvc/service/ItemsServices.java" />
+    <entry file="file://$PROJECT_DIR$/SSM/src/main/java/com/example/springmvc/service/ItemsServicesImpl.java" />
+    <entry file="file://$PROJECT_DIR$/SSM/src/main/java/com/example/springmvc/Controller/ItemsListController.java" />
+    <entry file="file://$PROJECT_DIR$/SSM/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/SSM/src/main/java/com/example/springmvc/pojo/Items.java" />
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/dao/ItemsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fcf1ac17-89b6-4220-a37a-ddc6a35caf0d/schema/springmvc/table/items">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/ItemsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/web/WEB-INF/jsp/itemList.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/Springmvc04_SSM_war_exploded/WEB-INF/jsp/editItem.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/pojo/Items.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/web/WEB-INF/jsp/success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/vo/ItemsVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/service/ItemsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/web/WEB-INF/jsp/editItem.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="28" column="90" selection-start-line="28" selection-start-column="90" selection-end-line="28" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/controller/ItemsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/service/ItemsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc04_SSM/src/main/java/com/example/springmvc/conversion/DateConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Springmvc04_SSM:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SpringmvcStudying</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-aop:4.0.2.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

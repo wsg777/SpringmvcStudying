@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Springmvc01_yiibai" />
+        <module name="Springmvc02_HelloWorld" />
+        <module name="Springmvc03_xml" />
+        <module name="Springmvc04_SSM" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Springmvc01_yiibai" target="1.5" />
+      <module name="Springmvc02_Hello_World" target="1.7" />
+      <module name="Springmvc02_HelloWorld" target="1.7" />
+      <module name="Springmvc03_Hello_World" target="1.7" />
+      <module name="Springmvc03_xml" target="1.7" />
+      <module name="Springmvc04" target="1.7" />
+      <module name="Springmvc04_integrate" target="1.7" />
+      <module name="Springmvc04_integration" target="1.7" />
+      <module name="Springmvc04_SSM" target="1.7" />
+      <module name="Springmvc05" target="1.7" />
+      <module name="Springmvc06" target="1.7" />
+      <module name="Springmvc07" target="1.7" />
+      <module name="SSM" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
